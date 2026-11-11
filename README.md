@@ -18,3 +18,4 @@
 Cambio de todo el sistema informático : Se cambia toda la programación hasta la fecha por
 Una aplicación totalmente nueva y se migran los antiguos datos a otros ficheros nuevos. Se rediseñan,mejoran y amplian todos los procesos operativos de la compañía.
 
+* Instalación de la herramienta FLASHCONNECT en la compañía para realizar la primera web de profesionales de MULTIASISTENCIA S.A.
